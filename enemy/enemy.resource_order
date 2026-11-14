@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"EnemyObj","order":2,"path":"objects/EnemyObj/EnemyObj.yy",},
+    {"name":"Object3","order":6,"path":"objects/Object3/Object3.yy",},
+    {"name":"oFloor","order":7,"path":"objects/oFloor/oFloor.yy",},
+    {"name":"player","order":3,"path":"objects/player/player.yy",},
+    {"name":"Enemy","order":1,"path":"sprites/Enemy/Enemy.yy",},
+    {"name":"player1","order":4,"path":"sprites/player1/player1.yy",},
+    {"name":"sFloor","order":8,"path":"sprites/sFloor/sFloor.yy",},
+    {"name":"Sprite3","order":5,"path":"sprites/Sprite3/Sprite3.yy",},
+  ],
+}
